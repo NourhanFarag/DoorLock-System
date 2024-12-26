@@ -6,20 +6,18 @@ This project focuses on developing a secure and user-friendly door lock system. 
 ## Project Goals
 **Secure Access Control:** Implement a password-based authentication mechanism to restrict access to authorized individuals.
 **User-Friendly Interface:** Provide an intuitive interface using an LCD and keypad for easy password entry and system interaction.
-**Enhanced Security Measures:**
-Monitor incorrect password attempts.
-Trigger an alarm after three consecutive failed attempts to deter unauthorized access.
+**Enhanced Security Measures:** Monitor incorrect password attempts. Trigger an alarm after three consecutive failed attempts to deter unauthorized access.
 **Real-time Feedback:** Provide visual and auditory feedback to the user through the LCD, LEDs, and buzzer.
 
 ## Project Scope
-**Hardware:**
+### Hardware:
 8051 Microcontroller
 LCD Display
 Keypad
 LEDs
 Buzzer
 Relays (for controlling the door lock mechanism)
-**Software:**
+### Software:
 8051 Assembly Language
 Password storage and verification algorithms
 LCD and keypad driver routines
